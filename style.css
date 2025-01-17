@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.section--one{
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+
+
+.section--two{
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 250px;
+    
+}
+
+.section--two__img1{
+    display: inline-block;
+    text-align: center;
+    padding: 1px;
+    
+}
+
+.section--two__button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.section--two__img1,.section--two__img2,.section--two__img3,.section--two__img4{
+    border: 2px solid black;
+}
+
+.section--three{
+    background-color: black;
+    color: white;
+  
+}
+
+.section--three__one{
+    padding-left: 600px;
+
+}
+
+.section--three__two{
+    padding-left: 20px;
+}
+
+.section--four__button{
+    padding-left:200px;
+    padding-right: 200px;
+    margin-left: 520px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    background-color: yellow;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+
+
+
